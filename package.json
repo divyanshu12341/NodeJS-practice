@@ -1,0 +1,16 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "Currently I am learning express js ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
